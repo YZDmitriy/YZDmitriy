@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there I'm Dmitriy 👋
 
-Header
-
-About me
+## JavaScript, Node.js developer
 
 Language and Tools
 
