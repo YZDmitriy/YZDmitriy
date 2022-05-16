@@ -7,6 +7,13 @@
 
 <h2 align="center">My projects 👨‍💻</h2>
 
+<p align="center">
+  <samp>Check out my projects:
+  <br> <br>
+   <a href="https://github.com/YZDmitriy/-Movies-project" target="_blank">Movies-project</a>
+  </samp>
+  <br> <br>
+</p>
  <br> <br>
 
 <h2 align="center">💬 Reach me on</h2>
@@ -46,7 +53,7 @@
   ![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
 
 </div>
-
+<br> <br>
 <div align="center">
 
   ![](https://visitor-badge.glitch.me/badge?page_id=YZDmitriy)
