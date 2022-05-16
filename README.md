@@ -49,29 +49,6 @@
 
 <div align="center">
 
-  <br><br>
-
-  <h2> 📈 GitHub Activity Graph: </h2>
-
-  ![YZDmitriy's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=YZDmitriy&hide_border=true&theme=redical)
-
-  <br><br>
-
-  <!-- ![YZDmitriy's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YZDmitriy&theme=radical) -->
-
-  <br><br>
-
-  ![YZDmitriy's github streak](https://github-readme-streak-stats.herokuapp.com/?user=YZDmitriy&theme=radical)
-
-  <br><br>
-
-  ![YZDmitriy's github
-  stats](https://github-readme-stats.vercel.app/api?username=YZDmitriy&show_icons=true&theme=radical&include_all_commits=true)
-
-  <br><br>
-
-  <br> <br>
-
   ![](https://visitor-badge.glitch.me/badge?page_id=YZDmitriy)
 
 </div>
