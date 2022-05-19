@@ -10,10 +10,10 @@
 <p align="center">
   <samp>Check out my projects:
   <br> <br>
-   <a href="https://github.com/YZDmitriy/bycicle-routes" target="_blank">Bycicle-Routes</a>
+   <a href="https://github.com/YZDmitriy/DiningRoom" target="_blank">Dining Room</a>
   </samp>
   <br> <br>
-   <a href="https://github.com/YZDmitriy/-Movies-project" target="_blank">Movies-project</a>
+  <a href="https://github.com/YZDmitriy/bycicle-routes" target="_blank">Bycicle-Routes</a>
   </samp>
   <br> <br>
 </p>
