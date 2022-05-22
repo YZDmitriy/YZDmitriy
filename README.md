@@ -20,11 +20,8 @@
   </samp>
   <br> <br>
 </p>
- <br> <br>
-
+ 
 <h2 align="center">💬 Reach me on</h2>
-
-<br><br>
 
 <p align="center" align='right'>
   <a target="_blank" href="mailto:dyuzef@gmail.com"><img
