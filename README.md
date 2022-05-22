@@ -10,6 +10,10 @@
 <p align="center">
   <samp>Check out my projects:
   <br> <br>
+   <a href="https://github.com/YZDmitriy/Countries-and-Flags" target="_blank">Countries-and-Flags</a>
+  </samp>
+  <br> <br>
+  <br> <br>
    <a href="https://github.com/YZDmitriy/DiningRoom" target="_blank">Dining Room</a>
   </samp>
   <br> <br>
