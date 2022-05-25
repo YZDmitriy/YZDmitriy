@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently learning TypeScript
 - 🌱 I write code in React and Redux
-- ⚡ Fun Fact: I paint at times! 💕
+- ⚡ Fun Fact: I paint at times! 👨‍🎨
 
 <br/>
  
