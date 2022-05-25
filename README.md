@@ -5,7 +5,10 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dmitriy</h1>
-<h3 align="center">Frontend JavaScript Developer from Moscow</h3>
+
+- 🔭 I’m currently learning TypeScript
+- 🌱 I write code in React and Redux
+- ⚡ Fun Fact: I love Coffee  💕
 
 <br/>
  
@@ -31,24 +34,16 @@
 <br/>
 
 <h2 align="center">💬 Reach me on</h2>
-
 <p align="center" align='right'>
   <a target="_blank" href="mailto:dyuzef@gmail.com"><img
     src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://t.me/dmitri_yz"><img
     src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dmitriy-yuzefovich/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=LinkedIn" /></a>
+src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
 </p>
-
-
-<br> <br>
-<div align="center">
-
-  ![](https://visitor-badge.glitch.me/badge?page_id=YZDmitriy)
-
-</div>
-
+<br/>
 <p align="center">
-  <img align="center" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling" alt="bazmaster" />
+  <img align="center" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=You can see my projects in pinned repositories!&fontSize=36&animation=twinkling" alt="bazmaster" />
 </p>
+
