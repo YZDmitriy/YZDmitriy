@@ -25,7 +25,7 @@ src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=Linke
 
 <!-- https://github.com/YZDmitriy/YZDmitriy/blob/main/cat.png -->
 
-<img align="center" alt="PNG" src="https://github.com/YZDmitriy/YZDmitriy/blob/main/cat.png" width="400" height="400" />
+<img align="right" alt="PNG" src="https://github.com/YZDmitriy/YZDmitriy/blob/main/cat.png" width="400" height="400" />
 
 
 <h3 align="center"> My Skills</h3>
