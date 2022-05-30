@@ -35,7 +35,7 @@
 </p>
 <br/>
 
-<h3 align="center">My little points:</h3>
+<h3 align="center">my little victories:</h3>
 
 <div align="center">
   
@@ -43,6 +43,7 @@
   
   </div>
   
+ <br/>
   
 <h2 align="center">💬 Reach me on</h2>
 <p align="center" align='right'>
