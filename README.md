@@ -36,8 +36,11 @@
 <br/>
 
 <h3 align="center">My little points:</h3>
+
 <div align="center">
-[![Codewars](https://www.codewars.com/users/dmitri_yz/badges/large)](https://www.codewars.com/users/dmitri_yz)
+  
+[![Codewars](https://www.codewars.com/users/MahimkO/badges/large)](https://www.codewars.com/users/MahimkO)
+  
   </div>
   
   
