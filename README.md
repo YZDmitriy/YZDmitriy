@@ -39,7 +39,7 @@
 
 <div align="center">
   
-[![Codewars](https://www.codewars.com/users/MahimkO/badges/large)](https://www.codewars.com/users/MahimkO)
+[![Codewars](https://www.codewars.com/users/dmitri_yz/badges/large)](https://www.codewars.com/users/dmitri_yz)
   
   </div>
   
