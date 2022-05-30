@@ -16,7 +16,7 @@
 <img align="left" alt="PNG" src="https://github.com/YZDmitriy/YZDmitriy/blob/main/cat.png" width="400" height="400" />
 
 
-<h3 align="center"> My Skills</h3>
+<h3 align="center"> My Skills 🧠</h3>
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -35,7 +35,7 @@
 </p>
 <br/>
 
-<h3 align="center">My little victories:</h3>
+<h3 align="center">My little victories✌️</h3>
 
 <div align="center">
   
@@ -45,7 +45,7 @@
   
  <br/>
   
-<h2 align="center">💬 Reach me on</h2>
+<h2 align="center">Reach me on 💬</h2>
 <p align="center" align='right'>
   <a target="_blank" href="mailto:dyuzef@gmail.com"><img
     src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;
