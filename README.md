@@ -35,7 +35,7 @@
 </p>
 <br/>
 
-<h3 align="center">my little victories:</h3>
+<h3 align="center">My little victories:</h3>
 
 <div align="center">
   
