@@ -33,7 +33,7 @@
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" width="36" height="36"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/> </a>
 </p>
-<br/>
+
 
 <h3 align="center">My little victories ✌️</h3>
 
@@ -42,7 +42,7 @@
 [![Codewars](https://www.codewars.com/users/dmitri_yz/badges/large)](https://www.codewars.com/users/dmitri_yz)
   
   </div>
-  <br/>
+ 
 <h2 align="center">Reach me on 💬</h2>
 <p align="center" align='right'>
   <a target="_blank" href="mailto:dyuzef@gmail.com"><img
