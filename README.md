@@ -42,7 +42,7 @@
 [![Codewars](https://www.codewars.com/users/dmitri_yz/badges/large)](https://www.codewars.com/users/dmitri_yz)
   
   </div>
-  
+  <br/>
 <h2 align="center">Reach me on 💬</h2>
 <p align="center" align='right'>
   <a target="_blank" href="mailto:dyuzef@gmail.com"><img
