@@ -4,8 +4,8 @@
 </p>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">, I'm <a href="https://www.linkedin.com/in/dmitriy-yuzefovich/">Dmitriy</a></h1>
-
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/dmitriy-yuzefovich/">Dmitriy</a></h1>
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"> -->
 - 🔭 I’m currently learning TypeScript
 - 🌱 I write code in React and Redux
 - ⚡ Fun Fact: I paint at times! 👨‍🎨
