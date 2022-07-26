@@ -4,8 +4,10 @@
 </p>
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px"/>, I'm <a href="https://www.linkedin.com/in/dmitriy-yuzefovich/">Dmitriy</a></h1>
-https://personal-portfolio-seven-gilt.vercel.app/
+<h1 align="center">Hi <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px"/>, I'm <a href="https://www.linkedin.com/in/dmitriy-yuzefovich/">Dmitriy</a>
+  https://personal-portfolio-seven-gilt.vercel.app/
+</h1>
+
 
 
 - 🔭 I’m currently learning TypeScript
