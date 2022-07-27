@@ -11,7 +11,7 @@
 - 🔭 I’m currently learning TypeScript
 - 🌱 I write code in React and Redux
 - ⚡ Fun Fact: I paint at times! 👨‍🎨
-- 🤓 you can find out more about me on my website 👉 https://personal-portfolio-seven-gilt.vercel.app/ 👈
+- 🤓 You can find out more about me on my website 👉 https://personal-portfolio-seven-gilt.vercel.app/ 👈
 
 <br/>
  
