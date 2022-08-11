@@ -1,12 +1,12 @@
 
 <p align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200"/> -->
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62" /> -->
 
 
-<!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20add me in friends!&descAlignY=51&descAlign=62" /> -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20add%20me%20in%20friends!&descAlignY=51&descAlign=62" />
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px"/>, I'm <a href="https://www.linkedin.com/in/dmitriy-yuzefovich/">Dmitriy</a></h1>
 
