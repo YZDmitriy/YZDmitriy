@@ -19,7 +19,6 @@
 
 <br/>
  
-
 <img align="left" alt="PNG" src="https://github.com/YZDmitriy/YZDmitriy/blob/main/cat.png" width="400" height="400" />
 
 
