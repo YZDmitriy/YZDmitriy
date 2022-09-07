@@ -8,7 +8,7 @@
 
 
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px"/>, I'm <a href="https://www.linkedin.com/in/dmitriy-yuzefovich/">Dmitriy</a></h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px"/>, I'm <a href="https://www.linkedin.com/in/dmitriy-yuzefovich/">Dmitri</a></h1>
 
 
 
