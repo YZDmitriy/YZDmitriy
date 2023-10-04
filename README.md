@@ -5,10 +5,11 @@
 
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200"/> -->
+<!--<img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="45px"/> -->
 
 
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="45px"/>, I'm <a href="https://www.linkedin.com/in/dmitriy-yuzefovich/">Dmitriy</a></h1>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/dmitriy-yuzefovich/">Dmitriy</a></h1>
 
 
 
