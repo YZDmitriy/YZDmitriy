@@ -20,7 +20,7 @@ I'm <a href="https://www.linkedin.com/in/dmitriy-yuzefovich/">Dmitriy</a></h1>
 
 - 🔭 I’m currently learning NextJS
 - 🌱 I write code in React, Redux and TS
-- ⚡ Fun Fact: I'm a runner! 👨‍🎨
+- ⚡ Fun Fact: I'm a runner! 🏃
 - 🤓 You can find out more about me on my website 👉 https://personal-portfolio-seven-gilt.vercel.app/ 👈
 
 <br/>
