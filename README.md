@@ -4,8 +4,8 @@
 </p>
 
 
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200"/>
-<img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="45px"/> 
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200"/> !-->
+<!-- <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="45px"/> !-->
 
 
 
